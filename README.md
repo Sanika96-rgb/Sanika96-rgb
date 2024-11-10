@@ -1,6 +1,6 @@
 -  Hi, I’m @Sanika96-rgb
 -  I’m interested in ...Web development 
--  I’m currently learning ...Artificial intelligence and machine lear
+-  I’m currently learning ...Artificial intelligence and machine learning 
 -   How to reach me ...Sanika96-rgb
   
 
